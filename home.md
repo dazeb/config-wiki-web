@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to config.wiki
 published: 1
-date: 2022-12-20T17:50:23.772Z
+date: 2022-12-24T16:57:23.671Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T14:32:27.237Z
