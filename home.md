@@ -2,13 +2,13 @@
 title: Home
 description: Welcome to config.wiki
 published: 1
-date: 2022-12-24T16:57:23.671Z
+date: 2022-12-26T19:06:59.316Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T14:32:27.237Z
 ---
 
-# Welcome to config.wiki
+# Welcome to config.wiki - The home of all the configs.
 Config.wiki is a place for configurations of all types of apps and devices. If you have a configuration guide you can post it [here](/home)
 
 > This documentation site is running on Wiki.js!
@@ -21,7 +21,7 @@ On the left you will find articles and categories for lots of devices and system
 2. Page Contents
 3. Page Links
 
-![5a3abc95fd69d7c7ddc1588eaf8a826d.png](/5a3abc95fd69d7c7ddc1588eaf8a826d.png)
+![dash.png](/dash.png)
 
 # Why?
 I thought that there should be a hub for all types of configuration and the website is built using [Wiki.js](https://js.wiki) which allows for huge databases of information.
