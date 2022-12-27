@@ -2,13 +2,16 @@
 title: Docker & Docker Compose
 description: Docker Containerization Engine
 published: true
-date: 2022-12-27T21:27:47.670Z
+date: 2022-12-27T21:32:53.968Z
 tags: containers, docker
 editor: markdown
 dateCreated: 2022-12-27T21:26:44.871Z
 ---
 
 # Docker & Docker Compose
+> Docker & Docker Compose
+{.is-success}
+
 Docker is a popular open-source containerization platform that allows users to easily package, deploy, and manage applications in a lightweight and portable manner. It allows users to create lightweight, standalone, and portable containers that contain all the necessary code, libraries, and dependencies needed to run an application.
 
 Docker makes it easy for developers to build, test, and deploy applications quickly and consistently across different environments, such as development, staging, and production. It allows developers to focus on writing code and helps them avoid the hassle of setting up and maintaining complex environments for their applications.
