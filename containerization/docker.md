@@ -2,7 +2,7 @@
 title: Docker & Docker Compose
 description: Docker Containerization Engine
 published: true
-date: 2022-12-27T21:32:53.968Z
+date: 2022-12-27T21:35:32.901Z
 tags: containers, docker
 editor: markdown
 dateCreated: 2022-12-27T21:26:44.871Z
