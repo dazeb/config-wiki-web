@@ -1,12 +1,17 @@
 ---
 title: Home
 description: Welcome to config.wiki
-published: 1
-date: 2022-12-26T19:06:59.316Z
+published: true
+date: 2022-12-27T16:43:22.804Z
 tags: 
 editor: markdown
-dateCreated: 2022-12-20T14:32:27.237Z
+dateCreated: 2022-12-27T14:54:21.938Z
 ---
+
+
+> THIS SITE IS IN DEVELOPMENT
+{.is-warning}
+
 
 # Welcome to config.wiki - The home of all the configs.
 Config.wiki is a place for configurations of all types of apps and devices. If you have a configuration guide you can post it [here](/home)
